@@ -1,0 +1,10 @@
+.centred {
+    text-align: center;
+    font-family: Impact, sans-serif;
+}
+
+.titular {
+    color: orange;
+    background-color: blue;
+    font-size: 50px;
+}
