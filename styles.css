@@ -4,7 +4,26 @@
 }
 
 .titular {
+    border: 5px solid rgb(9, 7, 105);
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
     color: orange;
     background-color: blue;
     font-size: 50px;
+}
+
+/* Homepage recipe links */
+.recipe-page-button {
+    padding: 0px;
+    border-width: 2px;
+    margin-bottom: 4px;
+}
+.recipe-link {
+    color: red;
+    padding: 10px;
+    display: inline-block;
+}
+.recipe-link:hover {
+    color: blue;
 }
